@@ -1,0 +1,80 @@
+[
+    {
+        "id": "el1",
+        "name": "FENDER SQUIER BULLET STRAT HT HSS BLK",
+        "img": "https://i.ibb.co/QJfqs4K/1.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el2",
+        "name": "FENDER SQUIER AFFINITY",
+        "img": "https://i.ibb.co/pKrG5ZJ/2.jpg",
+        "price": 23900
+    },
+    {
+        "id": "el3",
+        "name": "IBANEZ GIO GRG121DX-BKF BLACK FLAT",
+        "img": "https://i.ibb.co/NnvcYhR/3.jpg",
+        "price": 21600
+    },
+    {
+        "id": "el4",
+        "name": "EPIPHONE LES PAUL STUDIO LT EBONY",
+        "img": "https://i.ibb.co/4Tg91WL/4.jpg",
+        "price": 19900
+    },
+    {
+        "id": "el5",
+        "name": "FENDER SQUIER BULLET TREM HSS AWT",
+        "img": "https://i.ibb.co/MC7sy1F/5.jpg",
+        "price": 14500
+    },
+    {
+        "id": "el6",
+        "name": "FENDER SQUIER BULLET MUSTANG HH BLK",
+        "img": "https://i.ibb.co/qNBWPb0/6.jpg",
+        "price": 14600
+    },
+    {
+        "id": "el7",
+        "name": "FENDER SQUIER BULLET STRAT HT AWT",
+        "img": "https://i.ibb.co/WH1h2wV/7.jpg",
+        "price": 13600
+    },
+    {
+        "id": "el8",
+        "name": "JACKSON JS22-7 DINKY SATIN BLACK",
+        "img": "https://i.ibb.co/2cBg9g9/8.jpg",
+        "price": 28700
+    },
+    {
+        "id": "el9",
+        "name": "JACKSON JS11 DINKY OLYMPIC WHITE",
+        "img": "https://i.ibb.co/wKxFRM8/9.jpg",
+        "price": 18100
+    },
+    {
+        "id": "el10",
+        "name": "YAMAHA PACIFICA 012 WH",
+        "img": "https://i.ibb.co/30qJcZX/10.jpg",
+        "price": 15990
+    },
+    {
+        "id": "el11",
+        "name": "Струны для акустической гитары Elixir 11052 80/20 Bronze Nanoweb 12-53",
+        "img": "https://muzzone.kz/images/ab__webp/detailed/35/struny-dlya-akusticheskoy-gitary-elixir-phosphor-bronze-nanoweb-light-12-53-35070_jpg.webp",
+        "price": 190
+    },
+    {
+        "id": "el12",
+        "name": "Струны для акустической гитары Elixir 16052 Phosphor Bronze Nanoweb 12-53\n",
+        "img": "https://muzzone.kz/images/ab__webp/thumbnails/550/450/detailed/35/struny-dlya-akusticheskoy-gitary-elixir-8020-bronze-nanoweb-12-56-35083_jpg.webp",
+        "price": 159
+    },
+    {
+        "id": "el13",
+        "name": "Струны для мандолины Rotosound RS80 Troubadour",
+        "img": "https://muzzone.kz/images/ab__webp/detailed/35/struny-dlya-mandoliny-rotosound-rs80-troubadour-35479_jpg.webp",
+        "price": 370
+    }
+]
